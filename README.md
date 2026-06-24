@@ -16,6 +16,8 @@ Autonomous Arduino-based firefighting robot with fire detectio and automatic fir
 -Real-time obstacle avoidance
 -Automatic water pump activation for fire suppression
 -Arduino-based embedded control system
+### Demo Video link 
+https://drive.google.com/file/d/17WktoXccTrSlEF0AUbxiF0SqtLkvpufF/view?usp=sharing
 
 ### Project Objective
 - The main goal of this project is to enhance safety and reduce fire-related damage by providing an autonomous robotic solution capable of detecting, locating, and extinguishing fires with minimal human intervention.
